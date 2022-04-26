@@ -9,3 +9,8 @@
 
 user: root
 pass: root
+
+
+
+
+!for linux users run scripts with sudo!
